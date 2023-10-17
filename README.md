@@ -45,6 +45,9 @@ git clone https://github.com/034adarsh/Gender-Pay-Gap-Analysis-And-Prediction.gi
 
 Contributions to this project are always welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
+## Team Member
+- [Jaideep Singh Garlyal](mailto:jg8376@srmist.edu.in)
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
